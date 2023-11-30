@@ -1,4 +1,4 @@
-#Lab NAL - 230
+# Lab NAL - 230
 
 - Make sure you have a mariadb instance running on your machine on port 3306
 - Replace url, name, password with correct values in Main.java, the values below are for my specific environment
