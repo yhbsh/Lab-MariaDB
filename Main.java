@@ -133,6 +133,8 @@ public class Main {
                 System.exit(0);
             }
             default:
+                System.out.println("Unknown choice!");
+                break;
             }
         }
     }
